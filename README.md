@@ -12,6 +12,6 @@ Car 1 races using the enter key and Car 2 with the spacebar. When it's all said 
 
 I plan on introducing some sound effects into the mix at some point and hopefully will get the winner banners working in the very near future.
 
-![alt text](assets/racergame.png "Logo Title Text 1")
+![screenshot](imgs/racergame.png)
 
 [Vroom Vroom!!] (https://github.com/westondombroski/racer)
