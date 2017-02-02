@@ -1,1 +1,28 @@
 
+body{
+  margin: 0px;
+}
+.road{
+  position: absolute;
+  top: 575px;
+  left: 0px;
+  z-index: 1;
+}
+.car1{
+  position: absolute;
+  top: 500px;
+  left: 0px;
+  z-index: 3;
+}
+.car2{
+  position: absolute;
+  top: 650px;
+  left: 0px;
+  z-index: 3;
+}
+.finishline {
+  position: absolute;
+  top: 575px;
+  left: 1300px;
+  z-index: 2;
+}
