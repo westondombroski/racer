@@ -16,13 +16,20 @@ body{
 }
 .car2{
   position: absolute;
-  top: 650px;
+  top: 645px;
   left: 0px;
   z-index: 3;
 }
 .finishline {
   position: absolute;
-  top: 575px;
+  top: 580px;
   left: 1300px;
   z-index: 2;
+}
+.car1wins, .car2wins {
+  position: absolute;
+  top: 100px;
+  left: 380px;
+  z-index: 4;
+  border: 10px solid black;
 }
